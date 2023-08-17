@@ -9,4 +9,4 @@
 <li>Shows Current Day Wind Speed.🍃</li>
 </ul>
 
-<img src="https://pasteboard.co/zs1t8fDHlP4p.png" width="256px">
+<img src="https://pasteboard.co/zs1t8fDHlP4p.png" width="250">
